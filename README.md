@@ -4,7 +4,7 @@
 </p>
 
 ## Sobre   
-A ideia do projeto surgiu ao me deparar com um template de um portfólio para fotógrafos. Visualmente realizei algumas mudanças, já o código foi **feito do zero**. Minha principal intenção com esse projeto era estudar **responsividade** e me aprofundar mais em **flexbox**. Acabou que, ao passar do desenvolvimento, algumas ideias de pequenas funções com **JavaScript** surgiram e acabei-as incluindo no projeto final. 
+A ideia do projeto surgiu ao me deparar com um template de um portfólio para fotógrafos. Visualmente realizei apenas algumas mudanças, já o código foi **feito do zero**. Minha principal intenção com esse projeto era estudar **responsividade** e me aprofundar mais em **flexbox**. Acabou que, ao passar do desenvolvimento, algumas ideias de pequenas funções com **JavaScript** surgiram e acabei-as incluindo no projeto final. 
 
 ---
 
